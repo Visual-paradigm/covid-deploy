@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/covid-deploy/static/css/main.08b58b32.chunk.css",
-    "main.js": "/covid-deploy/static/js/main.11e96ae2.chunk.js",
-    "main.js.map": "/covid-deploy/static/js/main.11e96ae2.chunk.js.map",
+    "main.css": "/covid-deploy/static/css/main.9f39dc5e.chunk.css",
+    "main.js": "/covid-deploy/static/js/main.c60d1892.chunk.js",
+    "main.js.map": "/covid-deploy/static/js/main.c60d1892.chunk.js.map",
     "runtime-main.js": "/covid-deploy/static/js/runtime-main.a29ae4bd.js",
     "runtime-main.js.map": "/covid-deploy/static/js/runtime-main.a29ae4bd.js.map",
-    "static/js/2.2970251e.chunk.js": "/covid-deploy/static/js/2.2970251e.chunk.js",
-    "static/js/2.2970251e.chunk.js.map": "/covid-deploy/static/js/2.2970251e.chunk.js.map",
+    "static/js/2.9b2a2ed7.chunk.js": "/covid-deploy/static/js/2.9b2a2ed7.chunk.js",
+    "static/js/2.9b2a2ed7.chunk.js.map": "/covid-deploy/static/js/2.9b2a2ed7.chunk.js.map",
     "index.html": "/covid-deploy/index.html",
-    "precache-manifest.1e7c9a31d7b11355299145b59bca3551.js": "/covid-deploy/precache-manifest.1e7c9a31d7b11355299145b59bca3551.js",
+    "precache-manifest.a64c5bb7e06a53e6d6419ae0fcc0bfad.js": "/covid-deploy/precache-manifest.a64c5bb7e06a53e6d6419ae0fcc0bfad.js",
     "service-worker.js": "/covid-deploy/service-worker.js",
-    "static/css/main.08b58b32.chunk.css.map": "/covid-deploy/static/css/main.08b58b32.chunk.css.map",
-    "static/js/2.2970251e.chunk.js.LICENSE.txt": "/covid-deploy/static/js/2.2970251e.chunk.js.LICENSE.txt"
+    "static/css/main.9f39dc5e.chunk.css.map": "/covid-deploy/static/css/main.9f39dc5e.chunk.css.map",
+    "static/js/2.9b2a2ed7.chunk.js.LICENSE.txt": "/covid-deploy/static/js/2.9b2a2ed7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a29ae4bd.js",
-    "static/js/2.2970251e.chunk.js",
-    "static/css/main.08b58b32.chunk.css",
-    "static/js/main.11e96ae2.chunk.js"
+    "static/js/2.9b2a2ed7.chunk.js",
+    "static/css/main.9f39dc5e.chunk.css",
+    "static/js/main.c60d1892.chunk.js"
   ]
 }
